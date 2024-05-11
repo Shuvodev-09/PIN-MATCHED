@@ -53,4 +53,5 @@ function verifyPin() {
 
     // value clear 
     document.getElementById('display-pin').value = '';
+    document.getElementById('typed-numbes').value = '';
 }
